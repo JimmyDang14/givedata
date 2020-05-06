@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588804631427.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2908184633",
+    "id" : "53226DB0",
+    "lastKnownWriteTime" : 1588804106,
+    "last_content_update" : 1588804106,
+    "path" : "~/GitHub/givedata/R/transformexcel.R",
+    "project_path" : "R/transformexcel.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
