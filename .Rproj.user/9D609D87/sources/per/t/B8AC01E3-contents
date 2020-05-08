@@ -24,3 +24,5 @@ library(givedata)
 
 save(DepensesInvestiss_00_17, file="data/DepensesInvestiss_00_17.RData")
 save(Superficie, file="data/Superficie.RData")
+
+load(file = "data/Superficie.RData")
