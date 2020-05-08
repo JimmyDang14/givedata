@@ -1,0 +1,26 @@
+---
+title: "Repo for Testing"
+author: "Jimmy DANG"
+date: "27 fevrier 2020"
+output: html_document
+---
+rm(list = ls())
+install.packages("devtools")
+library(devtools)
+devtools::install_github("JimmyDang14/givedata")
+library(dplyr)
+
+library(givedata)
+data("Infraction_Code_penal_par_commune", package="givedata")
+ls()
+Infraction_Code_penal_par_commune %>% head()
+
+library(givedata)
+data("Nombre_de_supermarches_chaque_commune", package="givedata")
+ls()
+Nombre_de_supermarches_chaque_commune %>% head()
+
+library(givedata)
+
+save(DepensesInvestiss_00_17, file="data/DepensesInvestiss_00_17.RData")
+save(Superficie, file="data/Superficie.RData")
