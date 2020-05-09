@@ -1,0 +1,8 @@
+"0","data(""Loyermoyen100m2_06_19"", package=""givedata"")"
+"0","ls()"
+"1","[1]"
+"1"," ""DepensesInvestiss_00_17"""
+"1"," ""Loyermoyen100m2_06_19""  "
+"1","
+"
+"0","Loyermoyen100m2_06_19 %>% head()"

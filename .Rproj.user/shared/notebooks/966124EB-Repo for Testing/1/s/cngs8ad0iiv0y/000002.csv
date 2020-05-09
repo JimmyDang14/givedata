@@ -1,0 +1,31 @@
+"0","library(devtools)
+"
+"2","Loading required package: usethis
+"
+"0","library(dplyr)"
+"2","Registered S3 method overwritten by 'dplyr':
+  method           from
+  print.rowwise_df     
+"
+"2","
+Attaching package: ‘dplyr’
+
+"
+"2","The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+"
+"0","library(givedata)"
+"0","data(""DepensesInvestiss_00_17"", package=""givedata"")"
+"0","ls()"
+"1","[1]"
+"1"," ""DepensesInvestiss_00_17"""
+"1","
+"
+"0","DepensesInvestiss_00_17 %>% head()"
