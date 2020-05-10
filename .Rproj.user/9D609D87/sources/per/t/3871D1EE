@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589151604353.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3871D1EE",
+    "lastKnownWriteTime" : 2,
+    "last_content_update" : 1589151604353,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "8F05ED3",
+        "caption" : "NEcolePrimaire",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=NEcolePrimaire&cache_key=8F05ED3",
+        "displayedObservations" : 46,
+        "environment" : "",
+        "object" : "NEcolePrimaire",
+        "preview" : 0,
+        "totalObservations" : 46,
+        "variables" : 3
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
