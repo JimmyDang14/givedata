@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589157709761.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FB2311A3",
+    "lastKnownWriteTime" : 4189037517031498096,
+    "last_content_update" : 1589157709761,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "76C6E000",
+        "caption" : "NHabitants_00_19",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=NHabitants_00_19&cache_key=76C6E000",
+        "displayedObservations" : 46,
+        "environment" : "",
+        "object" : "NHabitants_00_19",
+        "preview" : 0,
+        "totalObservations" : 46,
+        "variables" : 22
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589157749189.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B7D33C81",
+    "lastKnownWriteTime" : 28429440806879331,
+    "last_content_update" : 1589157749189,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "5EA758FB",
+        "caption" : "NParcs",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=NParcs&cache_key=5EA758FB",
+        "displayedObservations" : 46,
+        "environment" : "",
+        "object" : "NParcs",
+        "preview" : 0,
+        "totalObservations" : 46,
+        "variables" : 3
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

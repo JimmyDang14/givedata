@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589157730030.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DF496603",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1589157730030,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "BDD242E8",
+        "caption" : "NInfractions_08_19",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=NInfractions_08_19&cache_key=BDD242E8",
+        "displayedObservations" : 46,
+        "environment" : "",
+        "object" : "NInfractions_08_19",
+        "preview" : 0,
+        "totalObservations" : 46,
+        "variables" : 14
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

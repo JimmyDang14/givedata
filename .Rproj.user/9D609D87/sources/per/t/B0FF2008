@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589157776849.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B0FF2008",
+    "lastKnownWriteTime" : 28429440799211522,
+    "last_content_update" : 1589157776849,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "8CDBD08D",
+        "caption" : "PMedianeAppart100m2_00_17",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=PMedianeAppart100m2_00_17&cache_key=8CDBD08D",
+        "displayedObservations" : 46,
+        "environment" : "",
+        "object" : "PMedianeAppart100m2_00_17",
+        "preview" : 0,
+        "totalObservations" : 46,
+        "variables" : 20
+    },
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589157690489.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "936A3E15",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1589157690489,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "A66B21D",
+        "caption" : "Loyermoyen100m2_06_19",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Loyermoyen100m2_06_19&cache_key=A66B21D",
+        "displayedObservations" : 46,
+        "environment" : "",
+        "object" : "Loyermoyen100m2_06_19",
+        "preview" : 0,
+        "totalObservations" : 46,
+        "variables" : 16
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

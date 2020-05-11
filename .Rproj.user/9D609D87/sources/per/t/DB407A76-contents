@@ -48,3 +48,11 @@ save(NSupermarches, file="data/NSupermarches.RData")
 save(PMedianeAppart100m2_00_17, file="data/PMedianeAppart100m2_00_17.RData")
 save(PMedianeVilla_00_17, file="data/PMedianeVilla_00_17.RData")
 save(Superficie, file="data/Superficie.RData")
+
+
+
+DepensesInvestiss_00_17[1] <- NULL
+DepensesInvestiss_00_17prov <- head(cbind(Commune, DepensesInvestiss_00_17), 46)
+DepensesInvestiss_00_17OK <- DepensesInvestiss_00_17prov[,-1]
+rownames(DepensesInvestiss_00_17OK) <- DepensesInvestiss_00_17prov[,1]
+rm(DepensesInvestiss_00_17, DepensesInvestiss_00_17prov)
